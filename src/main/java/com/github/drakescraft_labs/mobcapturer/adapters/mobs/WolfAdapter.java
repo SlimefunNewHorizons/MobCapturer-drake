@@ -19,7 +19,7 @@ import org.bukkit.inventory.EquipmentSlot;
 import org.bukkit.inventory.ItemStack;
 
 import com.github.drakescraft_labs.mobcapturer.adapters.InventoryAdapter;
-import com.github.drakescraft_labs.slimefun4.utils.ChatUtils;
+import io.github.thebusybiscuit.slimefun4.utils.ChatUtils;
 import io.papermc.paper.registry.RegistryAccess;
 import io.papermc.paper.registry.RegistryKey;
 

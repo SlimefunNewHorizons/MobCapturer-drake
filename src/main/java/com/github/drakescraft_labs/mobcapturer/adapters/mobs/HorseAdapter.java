@@ -14,7 +14,7 @@ import org.bukkit.entity.Horse.Color;
 import org.bukkit.entity.Horse.Style;
 import org.bukkit.inventory.ItemStack;
 
-import com.github.drakescraft_labs.slimefun4.utils.ChatUtils;
+import io.github.thebusybiscuit.slimefun4.utils.ChatUtils;
 
 public class HorseAdapter extends AbstractHorseAdapter<Horse> {
 

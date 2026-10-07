@@ -14,7 +14,7 @@ import org.bukkit.entity.AbstractHorse;
 import org.bukkit.inventory.ItemStack;
 
 import com.github.drakescraft_labs.mobcapturer.adapters.InventoryAdapter;
-import com.github.drakescraft_labs.slimefun4.utils.NumberUtils;
+import io.github.thebusybiscuit.slimefun4.utils.NumberUtils;
 
 class AbstractHorseAdapter<T extends AbstractHorse> extends AbstractTameableAdapter<T> implements InventoryAdapter<T> {
 

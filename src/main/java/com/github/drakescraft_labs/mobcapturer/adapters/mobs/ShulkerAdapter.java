@@ -13,7 +13,7 @@ import org.bukkit.DyeColor;
 import org.bukkit.entity.Shulker;
 
 import com.github.drakescraft_labs.mobcapturer.adapters.MobAdapter;
-import com.github.drakescraft_labs.slimefun4.utils.ChatUtils;
+import io.github.thebusybiscuit.slimefun4.utils.ChatUtils;
 
 public class ShulkerAdapter implements MobAdapter<Shulker> {
 

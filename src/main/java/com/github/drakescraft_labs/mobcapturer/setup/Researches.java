@@ -3,7 +3,7 @@ package com.github.drakescraft_labs.mobcapturer.setup;
 import org.bukkit.NamespacedKey;
 
 import com.github.drakescraft_labs.mobcapturer.MobCapturer;
-import com.github.drakescraft_labs.slimefun4.api.researches.Research;
+import io.github.thebusybiscuit.slimefun4.api.researches.Research;
 
 import lombok.experimental.UtilityClass;
 

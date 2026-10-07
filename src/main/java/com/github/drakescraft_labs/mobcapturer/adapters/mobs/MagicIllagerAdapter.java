@@ -11,7 +11,7 @@ import org.bukkit.ChatColor;
 import org.bukkit.entity.Spellcaster;
 import org.bukkit.entity.Spellcaster.Spell;
 
-import com.github.drakescraft_labs.slimefun4.utils.ChatUtils;
+import io.github.thebusybiscuit.slimefun4.utils.ChatUtils;
 
 public class MagicIllagerAdapter<T extends Spellcaster> extends RaiderAdapter<T> {
 

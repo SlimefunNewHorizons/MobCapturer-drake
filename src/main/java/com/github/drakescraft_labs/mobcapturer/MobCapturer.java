@@ -11,9 +11,9 @@ import com.github.drakescraft_labs.mobcapturer.listeners.MobCaptureListener;
 import com.github.drakescraft_labs.mobcapturer.listeners.PelletListener;
 import com.github.drakescraft_labs.mobcapturer.setup.Registry;
 import com.github.drakescraft_labs.mobcapturer.setup.Setup;
-import com.github.drakescraft_labs.slimefun4.api.SlimefunAddon;
-import com.github.drakescraft_labs.slimefun4.libraries.dough.config.Config;
-import com.github.drakescraft_labs.slimefun4.libraries.dough.updater.BlobBuildUpdater;
+import io.github.thebusybiscuit.slimefun4.api.SlimefunAddon;
+import io.github.thebusybiscuit.slimefun4.libraries.dough.config.Config;
+import io.github.thebusybiscuit.slimefun4.libraries.dough.updater.BlobBuildUpdater;
 
 /**
  * MobCapturer Slimefun addon

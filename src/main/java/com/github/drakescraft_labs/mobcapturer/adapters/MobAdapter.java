@@ -25,7 +25,7 @@ import org.bukkit.potion.PotionEffect;
 import org.bukkit.potion.PotionEffectType;
 
 import com.github.drakescraft_labs.mobcapturer.utils.JsonUtils;
-import com.github.drakescraft_labs.slimefun4.utils.NumberUtils;
+import io.github.thebusybiscuit.slimefun4.utils.NumberUtils;
 
 /**
  * This is a simple Adapter that allows conversion between a {@link LivingEntity} and

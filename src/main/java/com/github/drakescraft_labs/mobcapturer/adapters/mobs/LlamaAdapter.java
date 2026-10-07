@@ -11,7 +11,7 @@ import org.bukkit.ChatColor;
 import org.bukkit.entity.Llama;
 import org.bukkit.entity.Llama.Color;
 
-import com.github.drakescraft_labs.slimefun4.utils.ChatUtils;
+import io.github.thebusybiscuit.slimefun4.utils.ChatUtils;
 
 public class LlamaAdapter<T extends Llama> extends ChestedHorseAdapter<T> {
 

@@ -8,11 +8,11 @@ import javax.annotation.ParametersAreNonnullByDefault;
 import com.google.gson.JsonObject;
 
 import org.bukkit.ChatColor;
-import org.bukkit.entity.Slime;
+import org.bukkit.entity.AbstractCubeMob;
 
 import com.github.drakescraft_labs.mobcapturer.adapters.MobAdapter;
 
-public class SlimeAdapter<T extends Slime> implements MobAdapter<T> {
+public class SlimeAdapter<T extends AbstractCubeMob> implements MobAdapter<T> {
 
     private final Class<T> entityClass;
 

@@ -13,7 +13,7 @@ import org.bukkit.ChatColor;
 import org.bukkit.entity.Frog;
 import org.bukkit.entity.Frog.Variant;
 
-import com.github.drakescraft_labs.slimefun4.utils.ChatUtils;
+import io.github.thebusybiscuit.slimefun4.utils.ChatUtils;
 
 public class FrogAdapter extends AnimalsAdapter<Frog> {
 

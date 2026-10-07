@@ -12,7 +12,7 @@ import org.bukkit.DyeColor;
 import org.bukkit.entity.Cat;
 
 import com.github.drakescraft_labs.mobcapturer.utils.compatibility.CatTypeX;
-import com.github.drakescraft_labs.slimefun4.utils.ChatUtils;
+import io.github.thebusybiscuit.slimefun4.utils.ChatUtils;
 
 public class CatAdapter extends AbstractTameableAdapter<Cat> {
 

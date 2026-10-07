@@ -20,7 +20,7 @@ import org.bukkit.inventory.EntityEquipment;
 import org.bukkit.inventory.ItemStack;
 
 import com.github.drakescraft_labs.mobcapturer.adapters.InventoryAdapter;
-import com.github.drakescraft_labs.slimefun4.utils.ChatUtils;
+import io.github.thebusybiscuit.slimefun4.utils.ChatUtils;
 
 public class FoxAdapter extends AnimalsAdapter<Fox> implements InventoryAdapter<Fox> {
 

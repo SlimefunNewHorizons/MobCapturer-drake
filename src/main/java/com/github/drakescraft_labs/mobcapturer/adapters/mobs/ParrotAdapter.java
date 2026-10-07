@@ -11,7 +11,7 @@ import org.bukkit.ChatColor;
 import org.bukkit.entity.Parrot;
 import org.bukkit.entity.Parrot.Variant;
 
-import com.github.drakescraft_labs.slimefun4.utils.ChatUtils;
+import io.github.thebusybiscuit.slimefun4.utils.ChatUtils;
 
 public class ParrotAdapter extends AbstractTameableAdapter<Parrot> {
 

@@ -13,7 +13,7 @@ import org.bukkit.entity.TropicalFish;
 import org.bukkit.entity.TropicalFish.Pattern;
 
 import com.github.drakescraft_labs.mobcapturer.adapters.MobAdapter;
-import com.github.drakescraft_labs.slimefun4.utils.ChatUtils;
+import io.github.thebusybiscuit.slimefun4.utils.ChatUtils;
 
 public class TropicalFishAdapter implements MobAdapter<TropicalFish> {
 

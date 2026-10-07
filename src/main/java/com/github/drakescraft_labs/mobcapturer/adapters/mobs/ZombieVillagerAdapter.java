@@ -14,7 +14,7 @@ import org.bukkit.ChatColor;
 import org.bukkit.entity.ZombieVillager;
 
 import com.github.drakescraft_labs.mobcapturer.utils.compatibility.VillagerProfessionX;
-import com.github.drakescraft_labs.slimefun4.utils.ChatUtils;
+import io.github.thebusybiscuit.slimefun4.utils.ChatUtils;
 
 public class ZombieVillagerAdapter extends ZombieAdapter<ZombieVillager> {
 
