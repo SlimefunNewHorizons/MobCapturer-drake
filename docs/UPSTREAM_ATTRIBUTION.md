@@ -6,6 +6,14 @@ This repository is part of the [SlimefunNewHorizons](https://github.com/Slimefun
 
 | Author | Commits here | Source |
 |---|---|---|
+| [Slimefun-Addon-Community](https://github.com/Slimefun-Addon-Community) | n/a | Upstream project [Slimefun-Addon-Community/MobCapturer](https://github.com/Slimefun-Addon-Community/MobCapturer) |
+| [ybw0014](https://github.com/ybw0014) | n/a | GitHub contributors / project history |
+| [TheBusyBiscuit](https://github.com/TheBusyBiscuit) | n/a | GitHub contributors / project history |
+| [mrgeneralq](https://github.com/mrgeneralq) | n/a | GitHub contributors / project history |
+| [GallowsDove](https://github.com/GallowsDove) | n/a | GitHub contributors / project history |
+| [renovate-bot](https://github.com/renovate-bot) | n/a | GitHub contributors / project history |
+| [variananora](https://github.com/variananora) | n/a | GitHub contributors / project history |
+| [gecko10000](https://github.com/gecko10000) | n/a | GitHub contributors / project history |
 | DrakesCraft Labs | n/a | `authors` in plugin.yml |
 
 Authors are taken from the repository history (GitHub contributors) and from the code itself (`plugin.yml`). If an original author is missing or wrongly credited, open an issue or mention [@JackStar6677-1](https://github.com/JackStar6677-1) and it will be fixed.
